@@ -27,6 +27,14 @@ A responsive Todo application built using **Meteor.js**, **Blaze**, and **MongoD
 * HTML
 * CSS
 
+## Architecture
+
+- Frontend: Blaze Templates
+- Backend: Meteor.js
+- Database: MongoDB
+- Reordering: SortableJS
+
+
 ## Project Structure
 
 ```
@@ -102,6 +110,15 @@ Tasks can be categorized into:
 
 Tasks can be reordered using drag-and-drop functionality. The order is persisted in MongoDB so that it remains unchanged after refreshing the page.
 
+## ScreenShots
+
+### HomePage
+
+![alt text](image.png)
+
+### Drag-and-Drop Reordering
+![alt text](image-1.png)
+![alt text](image-2.png)
 ## Author
 
 **Anbarasu**
