@@ -114,11 +114,11 @@ Tasks can be reordered using drag-and-drop functionality. The order is persisted
 
 ### HomePage
 
-![alt text](image.png)
+![Home Page](screenshots/home.png)
 
 ### Drag-and-Drop Reordering
-![alt text](image-1.png)
-![alt text](image-2.png)
+![Drag and Drop](screenshots/drag-drop.png)
+
 ## Author
 
 **Anbarasu**
